@@ -1595,7 +1595,7 @@ common:
           mandalorian_worn_out_armor,
           fixed_hologram_models,
           canonical_jedi_exile,
-          allOf(better_twilek_male_heads, not(twilek_male_npc_diversity))
+          allOf(better_male_twilek_heads, not(twilek_male_npc_diversity))
         )
       )
   - id: baodur_darth_maul

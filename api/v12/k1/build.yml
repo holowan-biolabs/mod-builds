@@ -1882,7 +1882,7 @@ main:
           k1cp,
           jc_minor_fixes,
           jc_mandalorian_armor,
-          better_twilek_male_heads
+          better_male_twilek_heads
         )
       )
     conflicts: mobile
